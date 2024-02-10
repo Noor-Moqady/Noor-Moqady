@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noor Moqady</h1>
 <h3 align="center">Eager Junior Full Stack Developer proficient in front-end and back-end development, seeking opportunities to contribute and grow in dynamic development environments.</h3>
 
-- 🔭 I’m currently working on [Nsdi-Palestine, Geomolg, e-HPCRC, Nursery review platform, E-Commerce-store-Isekai](https://geoportal.nsdi.ps/, http://geomolg.ps/, https://hpcrc.geomolg.ps/, https://github.com/Noor-Moqady/nursery_review, https://github.com/Noor-Moqady/Isekai)
+- 🔭 I’m currently working on [<a href="https://geoportal.nsdi.ps">Nsdi-Palestine</a>, Geomolg, e-HPCRC, Nursery review platform, E-Commerce-store-Isekai](/, http://geomolg.ps/, https://hpcrc.geomolg.ps/, https://github.com/Noor-Moqady/nursery_review, https://github.com/Noor-Moqady/Isekai)
 
 - 🌱 I’m currently learning **MERN-Stack**
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/noor-moqady-7ab7b4136/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/noor-moqady-7ab7b4136/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/noor-moqady-7ab7b4136/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/noor-moqady-7ab7b4136/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
