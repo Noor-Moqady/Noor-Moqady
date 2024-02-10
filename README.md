@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noor Moqady</h1>
 <h3 align="center">Eager Junior Full Stack Developer proficient in front-end and back-end development, seeking opportunities to contribute and grow in dynamic development environments.</h3>
 
-- 🔭 I’m currently working on [<a href="https://geoportal.nsdi.ps">Nsdi-Palestine</a>, Geomolg, e-HPCRC, Nursery review platform, E-Commerce-store-Isekai](/, http://geomolg.ps/, https://hpcrc.geomolg.ps/, https://github.com/Noor-Moqady/nursery_review, https://github.com/Noor-Moqady/Isekai)
+- 🔭 I’m currently working on [<a href="https://geoportal.nsdi.ps/">Nsdi-Palestine</a>, <a href="http://geomolg.ps/">Geomolg</a>, <a href="https://hpcrc.geomolg.ps/">e-HPCRC</a>, <a href="https://github.com/Noor-Moqady/nursery_review">Nursery review platform</a>, <a href="https://github.com/Noor-Moqady/Isekai">E-Commerce-store-Isekai</a>]
 
 - 🌱 I’m currently learning **MERN-Stack**
 
